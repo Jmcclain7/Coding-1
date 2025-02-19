@@ -1,5 +1,4 @@
 # Data munipulation
-
 # In phython we have operators, that 
 # allow us to change data.
 
