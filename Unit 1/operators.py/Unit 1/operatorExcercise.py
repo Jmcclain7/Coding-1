@@ -33,7 +33,6 @@ print(age >= ageToBuy)
 # the coding class and is in the 12th grade, they may go on
 # the trip. If the student's ID does not meet this condition
 # they cannot attend the trip
-
 # logical operator
 #we need to check if the student is in 12 AND has taken 
 # coding class.
@@ -42,3 +41,42 @@ studentGrade = 11
 studentHasTakenCode = True
 
 print(studentGrade == 12 and studentHasTakenCode == True)
+
+number=203
+print(str) (number)
+
+number=205
+print(str) (number)
+
+number=450
+print(str) (number) 
+
+Input - is a speacial keyword that lets us pass data into our program.(this function will always turn the text you pass into a string data type)
+
+Let x = *welcome to coding*
+Let y = input(*what is your name?)
+print(x+y)
+
+Datacasting - is a family of built-in function(or special keywords),that allow us to change a data type from one thing to another.__annotations__
+
+4 primary data casting function
+
+str() - changes a data type into a string.
+int() - changes a data into a integer.
+float() - changes a data type into a float.
+bool() - changes a data type into a boolean
+Ex: a =34
+b+int(input)(205)
+print(a+b)
+
+Print - the print function is a speacial keyword that allows us to pass data inside the round brackets and display it in our terminal.list
+
+x = * welcome to phython coding*
+print(x)
+
+Common types of errors 
+Syntax error: there was an issue with how you wrote a coding symbol or you wrote you code out of order- such as operators, brackets, etc
+Name Error: There was an error with the name of a variable our function; could be misspelling
+Type Error: There was an issue with data type you are trying to use; such as combining a sting with an trigger.
+Indentation Error: There was an issue with you spaced out lines in a function.
+Index Error: You are trying to access a piece of data that does not excist in a list.
