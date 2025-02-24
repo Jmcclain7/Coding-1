@@ -1,7 +1,17 @@
 1. A Variable is something that helps find the soultion of an eqution but an ultimatly change if neccesary.
-2. The data type that is stored in the variable x = 1023.23 is float data type.
-3. The operator the family would use is Arithmatic(was havign )
-4. The data the inr() operator comes out of is string "49")
+#1 'A python variable is a container for data types'
+name = 'James'
+2. The data type that is stored in the variable x = 1023.3 is float data type. Float is just a number with a decimal
+3. The operator the family would use is Arithmatic. Use the print function to show the output of two variables being divided.
+numberOne = 8
+numberTwo = 4
+4. The data the inr() operator comes out of is string "49"
+#4 print(int('49')) # will transform string '49' into an integer 49.
 5. You would put a point in betweeen numbers
-6. You would use Arithmatic operator.
+#float(30) # 30.0
+6. You would use Comparison operator.
 7. You would use logical operator.
+#7 You would use assignment operator.
+name = 'James'
+title = 'engineer'
+age = 'young'
