@@ -1,20 +1,19 @@
 In your own words, describe what a function is? A function is a type of code that shows wheather something is true or not.
+1 # A function is a container for code instructions. Functions run code instructions only when its called.
 Create a function that will take in a users data and then print the data out. Hint: you will need to use the input() function to accomplish this. Research the input() function on W3schools if you need a refresher on how it works.
-def data():
-    x = 20
-    y = 30
-    z = 10
-    print(x + y + z)
+# step 1. create function definition
+def message():
+    response = input('please enter a message')
+    print(response)
+
+# step 2. "call" the function
+message()
 
     
 You have been hired to create an affordability checker for a real estate company. The company would like you to create a function that will take in a user take in a users budget, compare the budget to the a $500,000 house, and print out if the user has enough money to purchase the home. If they do have enough money, it should print out true, if they don not, it should print out false.
+def canIAffordHouse():
+    housePrice = 500000.
+    myBudget= input('how much do you have for this house?')
+    print(myBudget> housePrice)
 
-compare()
-
-def money():
-    House = 100,000
-    Furniture = 150,000
-    Room acessories = 50,000
-    Food = 10,000
-    Clothes,Shoes,School = 90,000
-    Bills and morgage = 100,000
+canIAffordHouse()
