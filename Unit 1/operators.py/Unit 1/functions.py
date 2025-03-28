@@ -23,6 +23,3 @@ def computer():
     print(x + y + xy)
 
 computer()
-
-
-
