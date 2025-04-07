@@ -47,10 +47,10 @@ True
 # Variable is a type of container or mass for data.
 # Variable values can change but the variabe name will stay the same.
 
-userName = 'Rob'
-emailAddress = 'Rob@gmail.com'
+userName = 'Jam'
+emailAddress = 'Jam8949@gmail.com'
 profilePicture ='profile.png'
-phoneNumber = 2157659990
+phoneNumber = 2157339221
 
 # The input function is used for pasing in data.
 # Whatever we type into the input will take on the value of the variable, which in this case is name

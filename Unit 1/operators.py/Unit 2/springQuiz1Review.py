@@ -13,7 +13,7 @@ ageCalculator()
 
 'argument is real data that goes into the function call'
 
-def sandwishTray(orderCount):
+def sandwichTray(orderCount):
     # ingredients
     #condiments
     #packaging
